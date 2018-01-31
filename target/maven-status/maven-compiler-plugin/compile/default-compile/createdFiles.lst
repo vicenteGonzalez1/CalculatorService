@@ -1,0 +1,3 @@
+com\bonarea\calculatorservice\CalculatorService.class
+com\bonarea\service\CalculatorServlet.class
+com\bonarea\calculatorservice\ICalculatorService.class
