@@ -2,12 +2,17 @@ com\bonarea\myfirstwebapp\calculadora\OperationNameLiteral.class
 com\bonarea\myfirstwebapp\calculadora\Multiplicacio.class
 com\bonarea\calculatorservice\CalculatorService.class
 com\bonarea\myfirstwebapp\calculadora\OperationNamed.class
+com\bonarea\service\alternatives\CustomerService.class
+com\bonarea\myfirstwebapp\alternatives\CustomerServlet.class
 com\bonarea\myfirstwebapp\calculadora\Operation.class
 com\bonarea\myfirstwebapp\calculadora\Resta.class
+com\bonarea\service\alternatives\Customer.class
 com\bonarea\myfirstwebapp\calculadora\Divisio.class
 com\bonarea\myfirstwebapp\calculadora\Suma.class
 com\bonarea\calculatorservice\ICalculatorService.class
 com\bonarea\service\CalculatorServlet.class
 com\bonarea\myfirstwebapp\facade\CalculatorResource.class
+com\bonarea\service\alternatives\CustomerServiceImpl.class
 com\bonarea\myfirstwebapp\facade\ApplicationConfig.class
+com\bonarea\service\alternatives\CustomerServiceMock.class
 com\bonarea\myfirstwebapp\calculadora\CalculatorServlet1.class

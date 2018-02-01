@@ -4,14 +4,15 @@
  * and open the template in the editor.
  */
 package com.bonarea.myfirstwebapp.facade;
-
+/*
 import com.bonarea.myfirstwebapp.calculadora.Operation;
-import com.bonarea.myfirstwebapp.calculadora.OperationNameLiteral;
-import com.google.gson.Gson;
+import static com.bonarea.myfirstwebapp.calculadora.OperationNameLiteral;
+import com.google.gson.Gson;*/
 import com.google.gson.JsonObject;
+/*
 import javax.enterprise.inject.Any;
 import javax.enterprise.inject.Instance;
-import javax.inject.Inject;
+import javax.inject.Inject;*/
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.UriInfo;
 import javax.ws.rs.Produces;
@@ -33,11 +34,11 @@ public class CalculatorResource {
 
     @Context
     private UriInfo context;
-
+/*
     @Inject
     @Any
     Instance<Operation> operation;
-
+*/
     /**
      * Creates a new instance of CalculatorResource
      */

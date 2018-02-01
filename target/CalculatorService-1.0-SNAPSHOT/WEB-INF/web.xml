@@ -8,6 +8,10 @@
         <servlet-name>CalculatorServlet1</servlet-name>
         <servlet-class>com.bonarea.myfirstwebapp.calculadora.CalculatorServlet1</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>CustomerServlet</servlet-name>
+        <servlet-class>com.bonarea.myfirstwebapp.alternatives.CustomerServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>CalculatorServlet</servlet-name>
         <url-pattern>/CalculatorServlet</url-pattern>
@@ -15,6 +19,10 @@
     <servlet-mapping>
         <servlet-name>CalculatorServlet1</servlet-name>
         <url-pattern>/CalculatorServlet1</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>CustomerServlet</servlet-name>
+        <url-pattern>/CustomerServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
