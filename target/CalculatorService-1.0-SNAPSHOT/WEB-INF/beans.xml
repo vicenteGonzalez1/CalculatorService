@@ -6,4 +6,7 @@
     <alternatives>
         <class>com.bonarea.service.alternatives.CustomerServiceMock</class>
     </alternatives>
+    <interceptors>
+        <class>com.bonarea.myfirstwebapp.interceptores.LoggingInterceptor</class>
+    </interceptors>
 </beans>
